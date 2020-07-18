@@ -142,7 +142,7 @@
   ],
   "variables": {
     "autounattend": "./answer_files/10_insider/Autounattend.xml",
-    "disk_size": "61440",
+    "disk_size": "122880",
     "memory": "2048",
     "iso_checksum": "sha256:b4b774e4816dc4b28ea14ea1e7283ac53beb2be216aca3a0cbcceb60a05d32de",
     "iso_url": "https://software-download.microsoft.com/pr/Windows10_InsiderPreview_EnterpriseVL_x64_en-us_19035.iso",
